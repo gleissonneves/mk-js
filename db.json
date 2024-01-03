@@ -1,7 +1,6 @@
 {
     "produto": {
-        "return": [
-            {
+        {
               "id": 1,
               "codigo": "PROD001",
               "codigoDeBarras": "123456789012",
@@ -141,7 +140,6 @@
               "desconto": 0.1,
               "quantidadeEmEstoque": 50
             }
-        ]
     }  
   }
   
