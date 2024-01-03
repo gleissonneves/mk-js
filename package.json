@@ -1,0 +1,12 @@
+{
+  "name": "@dynne/pdv-fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server router.module.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
